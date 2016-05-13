@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "First Post Ever!"
+title: "How to Add a JAR to your POM Without Running mvn install"
 published: true
 ---
 
